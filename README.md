@@ -14,25 +14,3 @@ A web-based application to detect tomato leaf diseases using deep learning. The 
 
 ---
 
-## Table of Contents
-
-1. [Getting Started](#getting-started)
-2. [Project Structure](#project-structure)
-3. [Data Preparation](#data-preparation)
-4. [Model Architecture](#model-architecture)
-5. [Results](#results)
-6. [Usage](#usage)
-7. [Future Work](#future-work)
-8. [Acknowledgments](#acknowledgments)
-
----
-
-## Getting Started
-
-### Prerequisites
-Ensure the following are installed:
-- Python 3.8+
-- Node.js (for React)
-- TensorFlow
-- FastAPI
-- Google Cloud SDK
